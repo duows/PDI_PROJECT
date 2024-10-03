@@ -5,3 +5,4 @@
 - https://colab.research.google.com/github/roboflow/sports/blob/main/examples/soccer/notebooks/train_player_detector.ipynb#scrollTo=HI4nADCCj3F5
 - https://www.youtube.com/watch?v=aBVGKoNZQUw
 - https://www.youtube.com/watch?v=neBZ6huolkg
+- https://www.youtube.com/watch?v=L23oIHZE14w
