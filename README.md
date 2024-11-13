@@ -7,6 +7,7 @@
 - https://www.youtube.com/watch?v=neBZ6huolkg
 - https://www.youtube.com/watch?v=L23oIHZE14w
 - https://web.tecgraf.puc-rio.br/~szenberg/doutorado/index.html
+- https://www.youtube.com/watch?v=yJWAtr3kvPU
 
 # Aleatorios
 - https://www.confea.org.br/midias/uploads-imce/Contecc2021/Eletricista/VIS%C3%83O%20COMPUTACIONAL%20APLICADA%20%C3%80%20IDENTIFICA%C3%87%C3%83O%20DE%20%C3%81REAS%20IRRIGADAS%20A%20PIV%C3%94%20CENTRAL%20EM%20GOI%C3%81S.pdf
